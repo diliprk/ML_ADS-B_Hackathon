@@ -14,4 +14,4 @@ The participants had to pick a particular _user story_ (team) and I joined the f
 - **Our Project Title:** Runway and Holding analysis - LHR arrivals case
 - **My Task** : Detect holding patterns and do runway classification with flight arrivals data for LHR (London Heathrow) airport.
 
-**Presentation Slides**:https://diliprk.github.io/post/adsb_Hackathon/
+**Presentation Slides**:https://diliprk.github.io/post/adsb_hackathon/
