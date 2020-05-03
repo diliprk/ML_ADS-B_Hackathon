@@ -3,7 +3,7 @@
 
 ### USER STORY - Runway and Holding Pattern Detection:
 The participants had to pick a particular _user story_ (team) and I joined the following team:
-![ADSB-Hackathon-TeamPic](https://user-images.githubusercontent.com/20330371/80918936-bb323880-8d67-11ea-8512-8c25f1d97a93.jpg)
+![ADSB-Hackathon-TeamPic](https://user-images.githubusercontent.com/20330371/80918936-bb323880-8d67-11ea-8512-8c25f1d97a93.jpg?style=centerme)
 
 - **Our Project Title:** Runway and Holding analysis - LHR arrivals case
 - **My Task** : Detect holding patterns and do runway classification with flight arrivals data for LHR (London Heathrow) airport.
